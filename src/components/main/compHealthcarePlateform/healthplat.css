@@ -1,0 +1,65 @@
+#healthcare-platform{
+    margin: 60px 0 90px;
+    background-color: #D5F5F5;
+    background-image: url(https://res-5.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/jcmy9zzlqh682l0my9p3);
+    background-repeat: no-repeat; 
+    background-size: 450px;
+    background-position-y: 310px;
+    background-position-x: 45px;
+}
+.healthcare-platform-division{
+    display: flex;
+    padding: 0px 188px;
+}
+.healthcare-platform-description>h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 34px;
+    font-weight: 300;
+    line-height: 44.2px;
+    color: rgb(0, 179, 155);
+    margin-top: 80px;
+}
+.healthcare-platform-description>p{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+    color: rgb(116, 116, 116);
+    margin-right: 70px;
+}
+.plateform-description-list{
+    display: flex;
+}
+.plateform-items-firstpart{
+    display: flex;
+    flex-direction: column;
+    margin: 30px 10px 30px;
+}
+.plateform-items-secondpart{
+    display: flex;
+    flex-direction: column;
+    margin: 0 10px 60px;
+}
+.plateform-item{
+    background-color: #ffffff;
+    border-radius: 5px;
+    width: 200px;
+    height: 230px;
+    padding: 15px;
+    margin-top: 20px;
+    text-align: center;
+}
+.plateform-item>h1{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 31.2px;
+    color: rgb(0, 179, 155);
+}
+.plateform-item>p{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 16.9px;
+    color: rgb(116, 116, 116);
+}

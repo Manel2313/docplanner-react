@@ -1,0 +1,45 @@
+/*Header*/
+.nav-menu{
+    position: fixed;
+    z-index: 5;
+    width: 100%;
+    top: 0;
+    left: 0;
+    height: 65px;
+    background: hsla(0,0%,100%,.98);
+}
+.shadow {
+    box-shadow: 0 1px 5px rgba(57, 63, 72, 0.1);
+}
+.container{
+    padding-right: 188px;
+    padding-left: 188px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.logo-docplanner{
+    width: 270px;
+}
+#ul-menu{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-around;
+}
+.li-menu{
+    margin: 0 10px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+#active-link {
+    color: #00c3a5;
+}
+.li-menu a{
+    color: #ababab;
+    text-decoration: none;
+}
+.li-menu a:hover{
+    color: #00c3a5;
+}

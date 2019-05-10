@@ -1,0 +1,56 @@
+#for-patients-doctors{
+    display: flex;
+    justify-content: space-between;
+    margin: 90px 188px 45px;
+}
+.for-patients{
+    background-color: #00CCB1;
+    border-radius: 10px;
+    padding: 1.375em 2.5em 0;
+    overflow: hidden;
+    margin-right: 10px;
+    width: 480px;
+}
+.for-doctors{
+    background-color: #3D83DF;
+    border-radius: 10px;
+    padding: 1.375em 3em 0;
+    overflow: hidden;
+    margin-left: 10px;
+    width: 480px;
+}
+.for-who-title{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: rgba(255, 255, 255, 0.7);
+}
+.for-who-description{
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #ffffff;
+    font-weight: 300;
+    font-size: 26px;
+    line-height: 33.8px;
+}
+.countries-select{
+    display: flex;
+}
+#select-country{
+    width: 100%;
+    border-radius: 5px;
+    padding: 0 6px 0 6px;
+    height: 40px;
+    width: 175px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.for-who-figure{
+    margin: 6px -10px;
+}
+.image-computer{
+    width: 380px;
+    height: 220px;
+}
+.sizing{
+    margin-left: 145px;
+}

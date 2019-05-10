@@ -1,0 +1,29 @@
+#healthcare-experience{
+    margin: 90px 188px 45px;
+}
+.logo-docplanner-icon{
+    display: flex;
+    justify-content: center
+}
+.title-description{
+    color: rgb(0, 179, 155);
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 34px;
+    font-weight: 300;
+}
+.description-healthcare-experience{
+    display: flex;
+    line-height: 1.75;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    color: #747474;
+}
+.first-description{
+    width: 480px;
+    margin-right: 10px
+}
+.second-description{
+    width: 480px;
+    margin-left: 10px
+}
